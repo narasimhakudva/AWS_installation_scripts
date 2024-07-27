@@ -5,7 +5,7 @@ sudo yum update -y
 sudo yum install java-21
 # supported are 11,17,21 so put 21 
 
-sudo tum upgrade -y 
+sudo yum upgrade -y 
 
 sudo yum install openjdk-17-jre -y
 
