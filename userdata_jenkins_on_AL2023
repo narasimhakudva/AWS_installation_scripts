@@ -18,3 +18,4 @@ sudo yum install fontconfig java-17-openjdk
 sudo yum install jenkins -y
 sudo systemctl daemon-reload
 sudo systemctl start jenkins
+# sudo systemctl status jenkins
